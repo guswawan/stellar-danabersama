@@ -75,7 +75,7 @@ Every donation is recorded on the blockchain, making the process fair and verifi
    - Display live total donations.
 
 5. **Deployment**
-   - Deploy contract to **XX Testnet**.
-   - Host frontend on **Vercel** or **Cloudflare Pages**.
+   - Deploy contract to **Testnet**.
+   - Host frontend.
 
 ---
