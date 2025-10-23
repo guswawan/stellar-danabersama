@@ -1,6 +1,6 @@
 ---
 title: 'DanaBersama - Blockchain Crowdfunding DApp'
-description: 'A simple, transparent crowdfunding platform built on XX Blockchain.'
+description: 'A simple, transparent crowdfunding platform built on Stellar Blockchain.'
 ---
 
 # 🫱 DanaBersama
